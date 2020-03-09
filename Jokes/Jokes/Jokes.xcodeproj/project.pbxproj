@@ -18,6 +18,7 @@
 		17A38DE3241506760035A572 /* Actout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A38DE2241506750035A572 /* Actout.swift */; };
 		17A38DE5241506B40035A572 /* Joke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A38DE4241506B40035A572 /* Joke.swift */; };
 		17A38DE7241506BE0035A572 /* Rating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A38DE6241506BE0035A572 /* Rating.swift */; };
+		17A4E21B2416C9D200F602F7 /* ComedySet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A4E21A2416C9D200F602F7 /* ComedySet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		17A38DE4241506B40035A572 /* Joke.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Joke.swift; sourceTree = "<group>"; };
 		17A38DE6241506BE0035A572 /* Rating.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rating.swift; sourceTree = "<group>"; };
 		17A4E2082416A69300F602F7 /* Package */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Package; path = ../../Package; sourceTree = "<group>"; };
+		17A4E21A2416C9D200F602F7 /* ComedySet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComedySet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				17A38DE2241506750035A572 /* Actout.swift */,
 				17A38DE4241506B40035A572 /* Joke.swift */,
 				17A38DE6241506BE0035A572 /* Rating.swift */,
+				17A4E21A2416C9D200F602F7 /* ComedySet.swift */,
 				17A38DB12415053D0035A572 /* Jokes */,
 				17A38DC82415053D0035A572 /* JokesTests */,
 				17A38DD32415053D0035A572 /* JokesUITests */,
@@ -281,6 +284,7 @@
 				17A38DE7241506BE0035A572 /* Rating.swift in Sources */,
 				17A38DB32415053D0035A572 /* AppDelegate.swift in Sources */,
 				17A38DE5241506B40035A572 /* Joke.swift in Sources */,
+				17A4E21B2416C9D200F602F7 /* ComedySet.swift in Sources */,
 				17A38DB52415053D0035A572 /* SceneDelegate.swift in Sources */,
 				17A38DB72415053D0035A572 /* ContentView.swift in Sources */,
 				17A38DE3241506760035A572 /* Actout.swift in Sources */,

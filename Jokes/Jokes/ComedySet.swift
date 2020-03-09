@@ -7,11 +7,14 @@
 //
 
 import Foundation
-class Set{
+class ComedySet{
     var when: String
     var location: String
     var rating: Int
     
-    init (){
+    init (when: String, location: String, rating: Int){
+        self.when = when
+        self.location = location
+        self.rating = rating
     }
 }

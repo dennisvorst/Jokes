@@ -15,11 +15,12 @@ class Joke{
      */
     var setup: String
     var punchline: String
-    var averageRating: Long
+    var averageRating: Int
     
-    init (setup: String, punchline: String){
+    init (setup: String, punchline: String, averageRating: Int){
         self.setup = setup
         self.punchline = punchline
+        self.averageRating = averageRating
     }
     
     
