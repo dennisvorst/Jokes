@@ -15,9 +15,12 @@ class Joke{
      */
     var setup: String
     var punchline: String
+    var averageRating: Long
     
     init (setup: String, punchline: String){
         self.setup = setup
         self.punchline = punchline
     }
+    
+    
 }
